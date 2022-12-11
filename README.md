@@ -4,6 +4,8 @@
 This repository only holds the issue tracker and disccusion board related on [analytics.noelware.org](https://analytics.noelware.org). This repository also holds the documentation hosted at [analytics.noelware.org/docs](https://analytics.noelware.org/docs), which uses the [Noeldoc](https://noelware.org/noeldoc) toolchain.
 
 ## Components
+> **Note** - The projects listed here are not completed (and privated on the organization), so please be patient!
+
 | Project                             | Repository                                                                | Documentation                                                          | Build Status  |
 | :---------------------------------- | :------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ------------- |
 | API Server                          | [Noelware/analytics-server](https://github.com/Noelware/analytics-server) | [📘 Documentation](https://analytics.noelware.org/docs/api-server)     | (coming soon) |
